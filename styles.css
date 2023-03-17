@@ -3,8 +3,11 @@ h1{
     color: turquoise;
     font-weight: bold;
 }
-.check{
+h3{
     background-color: maroon;
     color: white;
     font-size: 16px;
+}
+p{
+    border: 2px solid black;
 }
